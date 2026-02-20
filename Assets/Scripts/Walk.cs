@@ -11,6 +11,8 @@ public class Walk : MonoBehaviour
     void Start()
     {
         // hell part2 let's go
+        //bazinga
+        //jdhwajhbwds
     }
 
     // Update is called once per frame
